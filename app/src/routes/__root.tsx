@@ -82,6 +82,7 @@ function buildHead(meta: AppMeta) {
       { title },
       { name: "description", content: description },
       { name: "author", content: "Vexora Skin" },
+      { name: "google-site-verification", content: "96dhSoopJBulv52POVfxgmTEfBmwdnmpxCaDs8f9kkg" },
       { name: "theme-color", content: appMeta.theme_color ?? "black" },
       { property: "og:title", content: title },
       { property: "og:description", content: description },
