@@ -1,0 +1,18 @@
+# Vexora Skin website design brief
+
+- **Design read:** A premium at-home beauty-tech brand for skincare-minded adults who want an intentional, elevated self-care ritual.
+- **Concept spine:** The red-light ritual, a single product revealed through a slow cinematic close-in journey, then translated into clear shopping decisions.
+- **Delivery tier:** cinema.
+- **Locked palette:** midnight plum `#19080F`, deep wine `#2B0B17`, warm porcelain `#F7F3EF`, muted champagne `#D8B77A`, and soft rose `#C98E8B`. The user supplied a nude-brown mask, red LED light, and white/gold packaging, so the product's real colors anchor the brand; the surrounding plum field gives the LEDs a clear stage.
+- **Locked type:** Georgia display serif for editorial beauty headlines, justified by the premium beauty campaign direction; Arial/system sans for clear product copy, controls, and long text.
+Animation mode: animated-website
+- **Journey shape:** single-shot. The same mask is revealed from a wide hero to a close detail; one continuous move keeps the product story coherent and scrub-friendly.
+- **Journey:** 1) Glow With Confidence: centered illuminated mask establishes the brand. 2) A ritual, made simple: camera pushes closer as red LEDs become the focal point. 3) Your moment, every day: a refined macro settles into the final product view. Chapter text remains server-rendered and readable.
+- **World grammar:** Single centered Vexora Skin LED face mask, deep plum-black studio, red LED illumination, muted champagne reflections, controlled glossy highlights, slow macro product-film movement, locked exposure, no text inside the footage.
+- **Mobile framing:** The product remains centered. A lighter encoded mobile clip and matching exact-frame poster are provided; chapter copy moves to the lower part of the screen on mobile.
+- **Section plan:** 1) Cinematic scroll-scrub hero; 2) asymmetric product-detail split; 3) product catalogue with one available product and clearly marked upcoming slots; 4) editorial how-to-use feature; 5) horizontal specification strip; 6) FAQ accordion; 7) dark brand footer and contact prompt. Section eyebrows are limited to the hero, shop, and FAQ headings.
+- **Asset plan:** Use the user's actual Vexora Skin product and packaging photos. Derive the scroll-scrub clip from the user's supplied illuminated-mask photo because hosted image/video generation was unavailable in this account. Generate site icon assets locally from a simple V mark. All shipped assets are referenced by the site.
+- **CTA inventory:** Hero: “Shop the mask” as a text-path link. Product: “Add to bag” as a tactile press control. Catalogue: “Explore the mask” as an image-integrated CTA. Closing CTA: “Explore the FAQs” as a framed brand block; contact details remain unpublished until supplied.
+- **Interaction:** Responsive anchor navigation, accessible cart drawer with item count and quantity changes, product catalogue structure that can be extended, FAQ disclosure, and reduced-motion support. Checkout clearly explains that a payment provider must be connected before accepting orders.
+- **Commerce truth:** No final retail price, legal company details, shipping/returns policy, or payment-provider credentials were supplied. The product price is shown as “Price coming soon”; the cart is an interactive storefront preview, not a live payment flow.
+- **Previous-build anti-convergence ledger:** No prior website in this project conversation. Palette is plum/porcelain/champagne, display serif + sans, hero is scroll-scrub, CTA garments are path-link/press-control/image CTA/framed contact, corner language is mostly square with a few restrained 18px product surfaces.
